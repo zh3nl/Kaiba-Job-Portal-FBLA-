@@ -1310,6 +1310,10 @@ header {
         padding: 1.5rem 2rem; 
     }
 
+    html {
+        font-size: 75%; 
+    )
+        
     .category .box-container {
         grid-template-columns: repeat(auto-fit, 16.5rem); 
     }
